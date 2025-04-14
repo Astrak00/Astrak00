@@ -3,17 +3,22 @@
 
 - 🔭 I’m currently working on [AGDownloader](https://github.com/Astrak00/AGDownloader)
 
-- 🌱 I’m currently learning **Rust, PyTorch**
+- 🌱 I’m currently learning **Rust, PyTorch** and Go
 
+<!--- 
 - 👯 I’m looking to collaborate on **FunctionTracer (TBS)**
+-->
 
 - 🤝 I’m looking for help with **ML/AI, computer vision and Rust**
 
-- 💬 Ask me about **svelte, ocaml and go**
+- 💬 Ask me about **svelte or go**
 
 - 📫 How to reach me **edualanav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+[LinkedIn](https://linkedin.com/in/eduardo-alarcon-navarro)
+
 <p align="left">
 </p>
 
