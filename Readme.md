@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Eduardo Alarcón</h1>
 <h3 align="center">A passionate computer science developer from Spain</h3>
 
-- 🔭 I’m currently working on [AGDownloader](https://github.com/Astrak00/AGDownloader)
+- 🔭 I’m currently pursuing my Master's in Computer Science at **University Carlos III of Madrid.** 
 
-- 🌱 I’m currently learning **Rust, PyTorch** and Go
+- Latest project: [AGDownloader](https://github.com/Astrak00/AGDownloader)
 
-<!--- 
-- 👯 I’m looking to collaborate on **FunctionTracer (TBS)**
--->
+- 🌱 I’m currently learning **Go, Rust** and **PyTorch**
 
-- 🤝 I’m looking for help with **ML/AI, computer vision and Rust**
-
-- 💬 Ask me about **svelte or go**
+- 🤝 I’m looking for help with **computer vision**
 
 - 📫 How to reach me **edualanav@gmail.com**
+
+- 😄 Pronouns: he/him
 
 <h3 align="left">Connect with me:</h3>
 
