@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eduardo Alarcón</h1>
 <h3 align="center">A passionate computer science developer from Spain</h3>
 
-- 🔭 I’m currently pursuing my Master's in Computer Science at **University Carlos III of Madrid.** 
+- 🔭 I’m currently pursuing my Master's in Computer Science at **University Carlos III of Madrid**. 
 
 - Latest project: [AGDownloader](https://github.com/Astrak00/AGDownloader)
 
-- 🌱 I’m currently learning **Go, Rust** and **PyTorch**
+- 🌱 I’m currently learning **Go, Rust, PyTorch** and **Cuda**
 
-- 🤝 I’m looking for help with **computer vision**
+- 🤝 I’m looking for help with finding what to do next.
 
 - 📫 How to reach me **edualanav@gmail.com**
 
