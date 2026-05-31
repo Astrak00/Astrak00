@@ -5,11 +5,9 @@
 
 - Latest project: [AGDownloader](https://github.com/Astrak00/AGDownloader)
 
-- 🌱 I’m currently learning **Go, Rust, PyTorch** and **Cuda**
+- 🌱 I’m currently learning **Rust, PyTorch** and **Cuda**
 
-- 🤝 I’m looking for help with finding what to do next.
-
-- 📫 How to reach me **edualanav@gmail.com**
+- 📫 How to reach me [LinkedIn](https://linkedin.com/in/eduardo-alarcon-navarro)
 
 - 😄 Pronouns: he/him
 
