@@ -1,23 +1,29 @@
-<h1 align="center">Hi 👋, I'm Eduardo Alarcón</h1>
-<h3 align="center">A passionate computer science developer from Spain</h3>
+# Eduardo Alarcón
 
-- 🔭 I’m currently pursuing my Master's in Computer Science at **University Carlos III of Madrid**. 
+Computer science engineer from Madrid, finishing a master's in Computer Science Engineering at Universidad Carlos III de Madrid (2025 – 2027). I like the low levels of the stack — C, CUDA, compilers, distributed systems — and I like building small tools that make student life easier.
 
-- Latest project: [AGDownloader](https://github.com/Astrak00/AGDownloader)
+Most recently I spent the summer of 2026 as a research assistant at UC3M, building tools that automate data extraction, cleaning and visualisation for the EITEL project. Before that, an exchange year at the University of Illinois Urbana-Champaign and six years on the Student Council of the Escuela Politécnica Superior.
 
-- 🌱 I’m currently learning **Rust, PyTorch** and **Cuda**
+Full CV at [astrak.es](https://astrak.es).
 
-- 📫 How to reach me [LinkedIn](https://linkedin.com/in/eduardo-alarcon-navarro)
+## Things I've built
 
-- 😄 Pronouns: he/him
+- [**AGDownloader**](https://github.com/Astrak00/AGDownloader) — a Go CLI that downloads every file from your courses on Aula Global, UC3M's Moodle, in one go.
+- [**StyleSnap**](https://github.com/Astrak00/StyleSnapApp) — an iOS app that recognises garments from a photo with a PyTorch model, so you know what's in your wardrobe, and recommends what goes with what.
+- [**Locker reservations**](https://servicios-delegacion.uc3m.es/) for the Student Council — Svelte front end on a Go back end, with automated backups and a back end tuned to 700+ requests per second. ([front end source](https://github.com/Delegacion-EPS-UC3M/servicios-frontend))
+- Coursework from the bachelor's and the UIUC exchange is public — see [astrak.es/universidad](https://astrak.es/universidad).
 
-<h3 align="left">Connect with me:</h3>
+## Stack
 
-[LinkedIn](https://linkedin.com/in/eduardo-alarcon-navarro)
+- **Languages:** Python, C, C++, Go, JavaScript, TypeScript, SQL, Swift
+- **Data & ML:** PyTorch, CUDA, NumPy, Pandas, scikit-learn
+- **Web:** React, Astro, Svelte, Tailwind CSS, Node.js
+- **Databases and tooling:** PostgreSQL, MySQL, MongoDB, Convex, Docker, Git
 
-<p align="left">
-</p>
+Currently learning Rust.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Contact
 
+- [LinkedIn](https://linkedin.com/in/eduardo-alarcon-navarro)
+- [edualanav@gmail.com](mailto:edualanav@gmail.com)
+- Pronouns: he/him
