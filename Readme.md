@@ -11,10 +11,10 @@ Full CV at [astrak.es](https://astrak.es).
 
 ## Things I've built
 
-- [**AGDownloader**](https://github.com/Astrak00/AGDownloader) — a Go CLI that downloads every file from your courses on Aula Global, UC3M's Moodle, in one go.
-- [**StyleSnap**](https://github.com/Astrak00/StyleSnapApp) — an iOS app that recognises garments from a photo with a PyTorch model, so you know what's in your wardrobe, and recommends what goes with what.
-- [**Locker reservations**](https://servicios-delegacion.uc3m.es/) for the Student Council — Svelte front end on a Go back end, with automated backups and a back end tuned to 700+ requests per second. ([front end source](https://github.com/Delegacion-EPS-UC3M/servicios-frontend))
-- Coursework from the bachelor's and the UIUC exchange is public — see [astrak.es/universidad](https://astrak.es/universidad).
+- [**AGDownloader**](https://github.com/Astrak00/AGDownloader) - a Go CLI that downloads every file from your courses on Aula Global, UC3M's Moodle, in one go.
+- [**Horarios UC3M**](https://horarios.astrak.es) - A website for student to manage and build their own university courses schedule, supporting multi-year students.
+- [**Locker reservations**](https://servicios-delegacion.uc3m.es/) for the Student Council - Svelte front end on a Go back end, with automated backups and a back end tuned to 700+ requests per second. ([front end source](https://github.com/Delegacion-EPS-UC3M/servicios-frontend))
+- Coursework from the bachelor's and the UIUC exchange is public - see [astrak.es/universidad](https://astrak.es/universidad).
 
 ## Languages and tools
 
